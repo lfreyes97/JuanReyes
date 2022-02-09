@@ -4,11 +4,9 @@
   <div class="max-w-screen-xl p-4 mx-auto">
     <div class="flex items-center justify-between space-x-4 lg:space-x-10">
       <div class="flex lg:w-0 lg:flex-1">
-        <span class="w-20 h-10 bg-gray-200 rounded-lg">
           <h3>
             Prof. Juan C. Reyes
           </h3>
-        </span>
       </div>
 
       <nav class="hidden space-x-8 text-sm font-medium md:flex">
