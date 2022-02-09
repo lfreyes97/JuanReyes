@@ -19,11 +19,7 @@
           <nuxt-link to="/actividades" class="py-2 px-6 flex hover:text-blue-700">Actividades</nuxt-link>
       </nav>
 
-      <div class="items-center justify-end flex-1 hidden space-x-4 sm:flex">
-        <a class="px-5 py-2 text-sm font-medium text-gray-500 bg-gray-100 rounded-lg" href=""> Log in </a>
 
-        <a class="px-5 py-2 text-sm font-medium text-white bg-blue-600 rounded-lg" href=""> Sign up </a>
-      </div>
 
       <div class="lg:hidden">
         <button class="p-2 text-gray-600 bg-gray-100 rounded-lg" type="button">
